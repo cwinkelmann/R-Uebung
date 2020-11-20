@@ -1,0 +1,6 @@
+install.packages("plyr")
+install.packages("lattice")
+install.packages("psych")
+install.packages("latticeExtra")
+install.packages('ggplot2')
+install.packages('RColorBrewer')
